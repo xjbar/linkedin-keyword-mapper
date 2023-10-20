@@ -2,7 +2,7 @@
 
 ## Overview
 
-LinkedIn Keyword Mapper is a command-line tool designed to help you organize and optimize your LinkedIn profile by extracting and sorting relevant keywords from job listings.
+LinkedIn Keyword Mapper is a command-line command designed to help you organize and optimize your LinkedIn profile by extracting and sorting relevant keywords from job listings.
 
 ## Prerequisites
 
