@@ -2,7 +2,7 @@
 
 ## Overview
 
-LinkedIn Keyword Mapper is a command-line command designed to help you organize and optimize your LinkedIn profile by extracting and sorting relevant keywords from job listings.
+LinkedIn Keyword Mapper is a command template designed to help you organize and optimize your LinkedIn profile by extracting and sorting relevant keywords from job listings harnessing the power of LinkedIn Premium
 
 ## Prerequisites
 
@@ -20,11 +20,11 @@ Before using this tool, make sure you have the following:
 
 3. Click on a job listing that appeals to you.
 
-4. Scroll to the bottom of the job listing to find the "PREMIUM: HOW YOU MATCH" section.
+4. Scroll towards the bottom of the job listing to find the "PREMIUM: HOW YOU MATCH" section.
 
-5. Click on the listed keywords to open the list, then copy the keywords. You can ignore the "+ ADD" buttons.
+5. Click on the listed keywords to open the list, then copy the keywords. Don't worry if you highlight the "+ ADD" buttons. We will auto-remove them later.
 
-6. Paste the copied keywords into a Google Doc, ensuring you right-click and choose "Paste without formatting." Do not make any edits to the pasted content.
+6. Paste the copied keywords into a Google Doc, ensuring you right-click and choose "Paste without formatting." Do not make any edits to the pasted content. The content we don't need will be removed when we run the command.
 
 7. Repeat steps 3-6 for multiple job listings to compile a substantial list of keywords.
 
